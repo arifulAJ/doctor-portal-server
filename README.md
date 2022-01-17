@@ -3,3 +3,6 @@
 
 ## techonlogy used in server site 
 <li> javaScript</li>
+
+## live site privew link 
+https://doctor-portal-ff861.firebaseapp.com/
